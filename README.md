@@ -23,6 +23,28 @@ My favorite work is end to end: sensors, CAD, 3D printing, CNC machining, embedd
 | **Backend / Web** | Next.js, TypeScript, Spring Boot, Node.js, PostgreSQL, MySQL |
 | **Hardware Prototyping** | CAD, 3D printing, CNC machining, mechanical iteration |
 
+## Tech Stack
+
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,cpp,php,bash" alt="Python, TypeScript, JavaScript, Java, C, C++, PHP, Bash" />
+</p>
+
+**AI, Computer Vision, and Data**  
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,matlab" alt="TensorFlow, PyTorch, OpenCV, MATLAB" />
+</p>
+
+**Backend, Web, and Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,express,spring,django,flask,laravel,postgres,mysql,mongodb,firebase" alt="Next.js, React, Vue, Node.js, Express, Spring, Django, Flask, Laravel, PostgreSQL, MySQL, MongoDB, Firebase" />
+</p>
+
+**Hardware, DevOps, and Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,docker,linux,git,figma,blender,postman,grafana" alt="Arduino, Docker, Linux, Git, Figma, Blender, Postman, Grafana" />
+</p>
+
 ## Featured Work
 
 | Project | Engineering scope |
@@ -43,4 +65,4 @@ My favorite work is end to end: sensors, CAD, 3D printing, CNC machining, embedd
 
 Some client, freelance, and hardware projects may be private, so this profile focuses on the engineering work and systems involved rather than linking every repository.
 
-I keep this README intentionally lightweight: no auto-generated stats cards, no giant icon wall, and no unverifiable metrics. The goal is to make the engineering signal easy to scan.
+I keep this README intentionally lightweight: no auto-generated stats cards and no unverifiable metrics. The goal is to make the engineering signal easy to scan.
