@@ -23,6 +23,22 @@ My favorite work is end to end: sensors, CAD, 3D printing, CNC machining, embedd
 | **Backend / Web** | Next.js, TypeScript, Spring Boot, Node.js, PostgreSQL, MySQL |
 | **Hardware Prototyping** | CAD, 3D printing, CNC machining, mechanical iteration |
 
+## Featured Work
+
+| Project | Engineering scope |
+| --- | --- |
+| **Mas-Tion** | Autonomous robot for cow mastitis detection, selected as a PIMNAS ke-37 finalist. |
+| **FPV Drone Payload and Edge Tracking System** | Airsea Pelago drone payload work using YOLO-based tracking, embedded deployment, CNC machining, and 3D-printed hardware prototyping. |
+| **Arena Tenis Bogor** | Booking and operations backend built with Next.js and PostgreSQL. |
+| **HeyCow** | Smart collar prototype using thermal and pulse sensors for cattle health monitoring. |
+| **Es Teler Dewa** | Spring Boot and PostgreSQL backend for orders, inventory, and customer management. |
+
+## Current Direction
+
+- Building practical edge AI systems that run close to the device.
+- Connecting robotics, IoT sensors, and backend platforms into usable products.
+- Improving hardware/software prototyping workflows for faster field testing.
+
 ## Tech Stack
 
 **Languages**  
@@ -45,21 +61,6 @@ My favorite work is end to end: sensors, CAD, 3D printing, CNC machining, embedd
   <img src="https://skillicons.dev/icons?i=arduino,docker,linux,git,figma,blender,postman,grafana" alt="Arduino, Docker, Linux, Git, Figma, Blender, Postman, Grafana" />
 </p>
 
-## Featured Work
-
-| Project | Engineering scope |
-| --- | --- |
-| **Mas-Tion** | Autonomous robot for cow mastitis detection, selected as a PIMNAS ke-37 finalist. |
-| **FPV Drone Payload and Edge Tracking System** | Airsea Pelago drone payload work using YOLO-based tracking, embedded deployment, CNC machining, and 3D-printed hardware prototyping. |
-| **Arena Tenis Bogor** | Booking and operations backend built with Next.js and PostgreSQL. |
-| **HeyCow** | Smart collar prototype using thermal and pulse sensors for cattle health monitoring. |
-| **Es Teler Dewa** | Spring Boot and PostgreSQL backend for orders, inventory, and customer management. |
-
-## Current Direction
-
-- Building practical edge AI systems that run close to the device.
-- Connecting robotics, IoT sensors, and backend platforms into usable products.
-- Improving hardware/software prototyping workflows for faster field testing.
 
 ## Notes
 
