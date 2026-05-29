@@ -95,5 +95,3 @@ My favorite work is end to end: sensors, CAD, 3D printing, CNC machining, embedd
 ## Notes
 
 Some client, freelance, and hardware projects may be private, so this profile focuses on the engineering work and systems involved rather than linking every repository.
-
-I keep this README intentionally lightweight: no auto-generated stats cards and no unverifiable metrics. The goal is to make the engineering signal easy to scan.
