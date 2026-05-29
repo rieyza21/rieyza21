@@ -1,47 +1,46 @@
-# Hi, I'm Aditya Rieyza Munif
+<h1 align="center">Hi, I'm Aditya Rieyza Munif</h1>
 
-**Software Engineer building edge AI, robotics, and IoT systems**
+<h3 align="center">Software Engineer building edge AI, robotics, and IoT systems</h3>
 
-I work at the intersection of software, intelligent devices, and physical prototyping: computer vision on embedded hardware, autonomous robot and drone systems, IoT sensor platforms, backend services, and tools that make hardware projects easier to operate.
+<p align="center">
+  <a href="mailto:adityamunif21@gmail.com">Email</a> |
+  <a href="https://linkedin.com/in/aditya-munif">LinkedIn</a> |
+  <a href="https://instagram.com/rieyza21">Instagram</a>
+</p>
 
-I enjoy building systems end to end, from sensors, CAD, 3D printing, and embedded deployment to APIs, databases, dashboards, and production workflows.
+---
 
-## What I Build
+I build systems where software meets the physical world: computer vision on embedded hardware, autonomous robot and drone workflows, IoT sensor platforms, backend services, and tools that help hardware projects move from prototype to field testing.
 
-| Area | Focus |
+My favorite work is end to end: sensors, CAD, 3D printing, CNC machining, embedded deployment, APIs, databases, dashboards, and production workflows.
+
+## Focus Areas
+
+| Area | What I work with |
 | --- | --- |
-| Edge AI / Computer Vision | YOLO, TensorFlow, machine learning, embedded inference |
-| IoT / Robotics | Arduino, Orange Pi, sensors, autonomous devices |
-| Backend / Web | Next.js, TypeScript, Spring Boot, PostgreSQL, MySQL |
-| Prototyping | CAD, 3D printing, CNC machining, hardware iteration |
+| **Edge AI / Computer Vision** | YOLO, TensorFlow, PyTorch, OpenCV, machine learning, embedded inference |
+| **IoT / Robotics** | Arduino, Orange Pi, sensors, telemetry, autonomous devices |
+| **Backend / Web** | Next.js, TypeScript, Spring Boot, Node.js, PostgreSQL, MySQL |
+| **Hardware Prototyping** | CAD, 3D printing, CNC machining, mechanical iteration |
 
 ## Featured Work
 
-**Mas-Tion**  
-Autonomous robot for cow mastitis detection, selected as a PIMNAS ke-37 finalist.
-
-**FPV Drone Payload and Edge Tracking System**  
-Airsea Pelago drone payload work using YOLO-based tracking, embedded deployment, CNC machining, and 3D-printed hardware prototyping.
-
-**Arena Tenis Bogor**  
-Booking and operations backend built with Next.js and PostgreSQL.
-
-**HeyCow**  
-Smart collar prototype using thermal and pulse sensors for cattle health monitoring.
-
-**Es Teler Dewa**  
-Spring Boot and PostgreSQL backend for orders, inventory, and customer management.
+| Project | Engineering scope |
+| --- | --- |
+| **Mas-Tion** | Autonomous robot for cow mastitis detection, selected as a PIMNAS ke-37 finalist. |
+| **FPV Drone Payload and Edge Tracking System** | Airsea Pelago drone payload work using YOLO-based tracking, embedded deployment, CNC machining, and 3D-printed hardware prototyping. |
+| **Arena Tenis Bogor** | Booking and operations backend built with Next.js and PostgreSQL. |
+| **HeyCow** | Smart collar prototype using thermal and pulse sensors for cattle health monitoring. |
+| **Es Teler Dewa** | Spring Boot and PostgreSQL backend for orders, inventory, and customer management. |
 
 ## Current Direction
 
-- Building practical edge AI systems that can run close to the device.
+- Building practical edge AI systems that run close to the device.
 - Connecting robotics, IoT sensors, and backend platforms into usable products.
 - Improving hardware/software prototyping workflows for faster field testing.
 
-## Note
+## Notes
 
 Some client, freelance, and hardware projects may be private, so this profile focuses on the engineering work and systems involved rather than linking every repository.
 
-## Contact
-
-[adityamunif21@gmail.com](mailto:adityamunif21@gmail.com)
+I keep this README intentionally lightweight: no auto-generated stats cards, no giant icon wall, and no unverifiable metrics. The goal is to make the engineering signal easy to scan.
